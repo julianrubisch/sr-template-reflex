@@ -6,7 +6,7 @@ Compose a UI using page morphs
 
 **Caveat**
 
-Note that in a real-world app, you'd probably want to use model partials and empty model instances to construct your UI (the `Template`) class acts as a stand-in for both model and partial)
+Note that in a real-world app, you'd probably want to use model partials and empty model instances to construct your UI (the `Template` class acts as a stand-in for both model and partial)
 
 **Variations**
 
